@@ -1,0 +1,147 @@
+{
+  "categories": {
+    "pizza": {
+      "name": "Pizza & Italian",
+      "signals": ["pizza oven", "pizza boxes stacked", "italian flag", "checkered tablecloth"],
+      "products": [
+        { "sku": "PB16", "name": "Pizza Box 16\"", "description": "Corrugated pizza box, fits large pie" },
+        { "sku": "PB14", "name": "Pizza Box 14\"", "description": "Corrugated pizza box, fits medium pie" },
+        { "sku": "PB12", "name": "Pizza Box 12\"", "description": "Corrugated pizza box, fits small pie" },
+        { "sku": "PS100", "name": "Pizza Saver 100ct", "description": "Plastic tripod to prevent box crush" },
+        { "sku": "PARM500", "name": "Parmesan Packet 500ct", "description": "Individual parmesan cheese packets" },
+        { "sku": "REDP500", "name": "Red Pepper Packet 500ct", "description": "Crushed red pepper packets" },
+        { "sku": "NAPLG", "name": "Napkin 1-Ply Dispenser", "description": "Tall fold napkins for dispenser" }
+      ]
+    },
+    "chinese": {
+      "name": "Chinese & Asian",
+      "signals": ["wok", "chinese characters", "red lanterns", "bamboo", "takeout containers"],
+      "products": [
+        { "sku": "CT32", "name": "Chinese Takeout Box 32oz", "description": "Pagoda print folding box" },
+        { "sku": "CT16", "name": "Chinese Takeout Box 16oz", "description": "Pagoda print folding box, small" },
+        { "sku": "CHOP500", "name": "Chopsticks Wrapped 500ct", "description": "Bamboo chopsticks in paper sleeve" },
+        { "sku": "SOY500", "name": "Soy Sauce Packet 500ct", "description": "Individual soy sauce packets" },
+        { "sku": "DUCK200", "name": "Duck Sauce Packet 200ct", "description": "Individual duck sauce packets" },
+        { "sku": "MUSTC200", "name": "Hot Mustard Packet 200ct", "description": "Chinese hot mustard packets" },
+        { "sku": "FRCOOK", "name": "Fortune Cookies 350ct", "description": "Individually wrapped fortune cookies" }
+      ]
+    },
+    "mexican": {
+      "name": "Mexican & Latin",
+      "signals": ["tacos", "burritos", "mexican flag", "sombreros", "salsa bar", "tortilla press"],
+      "products": [
+        { "sku": "FOIL12", "name": "Foil Sheet 12x12 500ct", "description": "For wrapping burritos and tacos" },
+        { "sku": "FOIL14", "name": "Foil Sheet 14x14 500ct", "description": "Large foil for big burritos" },
+        { "sku": "PC2OZ", "name": "Portion Cup 2oz 2500ct", "description": "For salsa and sauces" },
+        { "sku": "PC4OZ", "name": "Portion Cup 4oz 1000ct", "description": "For guac and larger portions" },
+        { "sku": "PCLID2", "name": "Portion Cup Lid 2oz 2500ct", "description": "Lids for 2oz cups" },
+        { "sku": "HOTSAUCE", "name": "Hot Sauce Packet 500ct", "description": "Individual hot sauce packets" },
+        { "sku": "BASKET", "name": "Food Basket Red 12ct", "description": "Plastic basket for tacos/nachos" }
+      ]
+    },
+    "cafe": {
+      "name": "Coffee & Cafe",
+      "signals": ["espresso machine", "coffee beans", "pastry case", "coffee cups", "latte art"],
+      "products": [
+        { "sku": "HC12", "name": "Paper Hot Cup 12oz 500ct", "description": "Single wall paper cup" },
+        { "sku": "HC16", "name": "Paper Hot Cup 16oz 500ct", "description": "Single wall paper cup, large" },
+        { "sku": "HC20", "name": "Paper Hot Cup 20oz 250ct", "description": "Single wall paper cup, XL" },
+        { "sku": "HCLID", "name": "Hot Cup Lid Sip 500ct", "description": "Black dome lid with sip hole" },
+        { "sku": "SLEEVE", "name": "Cup Sleeve Kraft 1000ct", "description": "Corrugated sleeve for hot cups" },
+        { "sku": "STIR", "name": "Stir Stick Wood 1000ct", "description": "Wooden coffee stirrers" },
+        { "sku": "SUGAR", "name": "Sugar Packet 2000ct", "description": "Individual sugar packets" },
+        { "sku": "SPLENDA", "name": "Splenda Packet 1000ct", "description": "Sugar substitute packets" }
+      ]
+    },
+    "deli": {
+      "name": "Deli & Sandwich",
+      "signals": ["deli slicer", "sandwich board", "cold cuts display", "pickle jars", "deli counter"],
+      "products": [
+        { "sku": "DELI12", "name": "Deli Paper 12x12 1000ct", "description": "Wax paper for sandwiches" },
+        { "sku": "DELI10", "name": "Deli Paper 10x10 1000ct", "description": "Wax paper, smaller size" },
+        { "sku": "BAGKRAFT", "name": "Paper Bag Kraft #20 500ct", "description": "Brown paper lunch bag" },
+        { "sku": "BAGWHITE", "name": "Paper Bag White #20 500ct", "description": "White paper lunch bag" },
+        { "sku": "TOOTHPK", "name": "Toothpick Frilled 1000ct", "description": "Decorative sandwich picks" },
+        { "sku": "GLOVE-M", "name": "Vinyl Glove Medium 1000ct", "description": "Food safe disposable gloves" },
+        { "sku": "MAYO50", "name": "Mayo Packet 500ct", "description": "Individual mayonnaise packets" },
+        { "sku": "MUSTD50", "name": "Mustard Packet 500ct", "description": "Individual mustard packets" }
+      ]
+    },
+    "bakery": {
+      "name": "Bakery & Pastry",
+      "signals": ["display case with pastries", "bread racks", "cake display", "cookie trays", "ovens"],
+      "products": [
+        { "sku": "CAKE10", "name": "Cake Box 10x10x5 50ct", "description": "White cake box with window" },
+        { "sku": "CAKE8", "name": "Cake Box 8x8x4 50ct", "description": "White cake box, smaller" },
+        { "sku": "PASTRY", "name": "Pastry Bag 1000ct", "description": "Glassine pastry/cookie bag" },
+        { "sku": "TISSUE", "name": "Tissue Paper 1000ct", "description": "Wax tissue for handling pastries" },
+        { "sku": "BBOARD", "name": "Cake Board Gold 10\" 25ct", "description": "Gold foil cake circle" },
+        { "sku": "DOILY10", "name": "Doily Paper 10\" 500ct", "description": "Decorative paper doily" },
+        { "sku": "TWINE", "name": "Baker's Twine 200ft", "description": "Red/white string for boxes" }
+      ]
+    },
+    "bar": {
+      "name": "Bar & Cocktails",
+      "signals": ["bar counter", "liquor bottles", "beer taps", "cocktail glasses", "bar stools"],
+      "products": [
+        { "sku": "NAPBEV", "name": "Beverage Napkin 1-Ply 4000ct", "description": "Small cocktail napkins" },
+        { "sku": "STRAW", "name": "Straw Black 8\" 5000ct", "description": "Plastic drinking straws" },
+        { "sku": "STRAWP", "name": "Straw Paper 8\" 2000ct", "description": "Eco-friendly paper straws" },
+        { "sku": "PICK", "name": "Cocktail Pick 1000ct", "description": "Plastic sword picks" },
+        { "sku": "COASTER", "name": "Coaster 4\" 1000ct", "description": "Absorbent drink coasters" },
+        { "sku": "CHERRYST", "name": "Cherry Stems 100ct", "description": "Maraschino cherry stems" }
+      ]
+    },
+    "general": {
+      "name": "General Restaurant",
+      "signals": ["dining tables", "kitchen", "food prep area", "cash register"],
+      "products": [
+        { "sku": "FOAM9", "name": "Foam Container 9x9 200ct", "description": "3-compartment takeout container" },
+        { "sku": "FOAM6", "name": "Foam Container 6x6 500ct", "description": "Single compartment, small" },
+        { "sku": "PLAS9", "name": "Plastic Container 9x9 150ct", "description": "Clear hinged container" },
+        { "sku": "UTKIT", "name": "Utensil Kit 250ct", "description": "Fork, knife, napkin, salt, pepper" },
+        { "sku": "FORK", "name": "Fork Heavy White 1000ct", "description": "Heavy duty plastic fork" },
+        { "sku": "KNIFE", "name": "Knife Heavy White 1000ct", "description": "Heavy duty plastic knife" },
+        { "sku": "SPOON", "name": "Spoon Heavy White 1000ct", "description": "Heavy duty plastic spoon" },
+        { "sku": "NAP2PLY", "name": "Napkin 2-Ply 3000ct", "description": "White dinner napkin" },
+        { "sku": "BAGPLAST", "name": "T-Shirt Bag 1000ct", "description": "Thank you plastic bag" },
+        { "sku": "ALUMPAN", "name": "Aluminum Pan Full 50ct", "description": "Full size steam table pan" },
+        { "sku": "ALUMHALF", "name": "Aluminum Pan Half 100ct", "description": "Half size steam table pan" }
+      ]
+    },
+    "outdoor": {
+      "name": "Outdoor Dining",
+      "signals": ["patio", "outdoor seating", "umbrellas", "sidewalk tables", "outdoor heaters"],
+      "products": [
+        { "sku": "NAPDISP", "name": "Napkin Dispenser HD", "description": "Heavy duty outdoor dispenser" },
+        { "sku": "WEIGHTC", "name": "Menu Weight Clip 12ct", "description": "Clips to hold menus down" },
+        { "sku": "FLYSTRIP", "name": "Fly Ribbon 10ct", "description": "Adhesive fly catcher" },
+        { "sku": "ASHTRAY", "name": "Ashtray Melamine 12ct", "description": "Outdoor ashtrays" }
+      ]
+    },
+    "health_conscious": {
+      "name": "Health & Eco-Friendly",
+      "signals": ["salad bar", "juice bar", "organic signs", "vegan menu", "smoothie station"],
+      "products": [
+        { "sku": "BOWLPLA", "name": "Salad Bowl PLA 32oz 300ct", "description": "Compostable salad bowl" },
+        { "sku": "LIDPLA", "name": "Salad Bowl Lid PLA 300ct", "description": "Compostable lid" },
+        { "sku": "FORKWOOD", "name": "Fork Wooden 1000ct", "description": "Compostable wooden fork" },
+        { "sku": "STRAWPAP", "name": "Straw Paper 8\" 2000ct", "description": "Paper straws, eco-friendly" },
+        { "sku": "CUPCORN", "name": "Cold Cup PLA 16oz 1000ct", "description": "Corn-based compostable cup" },
+        { "sku": "NAPRECYC", "name": "Napkin Recycled 3000ct", "description": "100% recycled napkins" }
+      ]
+    }
+  },
+  "visual_cues": {
+    "pizza_oven": ["PB16", "PB14", "PS100"],
+    "espresso_machine": ["HC12", "HC16", "HCLID", "SLEEVE"],
+    "deli_slicer": ["DELI12", "BAGKRAFT", "TOOTHPK"],
+    "outdoor_seating": ["NAPDISP", "WEIGHTC"],
+    "takeout_counter": ["FOAM9", "BAGPLAST", "UTKIT"],
+    "salad_bar": ["BOWLPLA", "PC4OZ", "FORKWOOD"],
+    "cocktail_bar": ["NAPBEV", "STRAW", "COASTER"],
+    "bakery_display": ["CAKE10", "PASTRY", "TISSUE"],
+    "wok_station": ["CT32", "CHOP500", "SOY500"],
+    "taco_station": ["FOIL12", "PC2OZ", "BASKET"]
+  }
+}
